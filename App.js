@@ -2,7 +2,7 @@ import React from "react";
 import { StyleSheet, View } from "react-native";
 import Header from "./components/Header";
 import StartGameScreen from "./screens/StartGameScreen";
-import COLORS from "./components/colors";
+import COLORS from "./constants/colors";
 
 export default function App() {
     return (
